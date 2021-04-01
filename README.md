@@ -1,16 +1,5 @@
 <h2 align="center"><code>Linux Security and Hardening Security Guide</code></h2>
 
-
-</br>
-
-<p align="center">
-  <a href="https://github.com/Srp3n6u1n/Linux-Security-and-Hardening-Security-Guide">
-    <img src="https://github.com/Srp3n6u1n/Linux-Security-and-Hardening-Security-Guide/master/static/img/main.png">
-  </a>
-</p>
-
-
-
 ### Table of Contents:
 
 - [Password Bootloader GRUB](#password-bootloader-grub)
