@@ -601,6 +601,7 @@ lsof -i | grep <port>
 
   - [Lynis](https://cisofy.com/lynis/)
   - [Rkhunter](https://sourceforge.net/projects/rkhunter/)
+  - [OpenScap Workbench](https://www.open-scap.org/tools/scap-workbench/)
   
 #### NIDS (Network Intrusion Detection System) and IPS (Intrusion Prevention Systems):
  
