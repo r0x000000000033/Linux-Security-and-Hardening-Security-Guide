@@ -600,6 +600,7 @@ lsof -i | grep <port>
 ### Security Auditing Tools Open Source
 
   - [Lynis](https://cisofy.com/lynis/)
+  - [Rkhunter](https://sourceforge.net/projects/rkhunter/)
   
 #### NIDS (Network Intrusion Detection System) and IPS (Intrusion Prevention Systems):
  
